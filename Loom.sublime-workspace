@@ -1,0 +1,733 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"component"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"scr",
+				"src"
+			],
+			[
+				"tehsil",
+				"tehsils"
+			],
+			[
+				"tra",
+				"Training"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"I",
+				"Input"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"E",
+				"Event"
+			],
+			[
+				"Eve",
+				"Event"
+			],
+			[
+				"R",
+				"Response"
+			],
+			[
+				"D",
+				"DB"
+			],
+			[
+				"has",
+				"has_parent"
+			],
+			[
+				"M",
+				"Media"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/LoomController.php",
+			"settings":
+			{
+				"buffer_size": 1966,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/VillageController.php",
+			"settings":
+			{
+				"buffer_size": 3508,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/forms/newLoom.blade.php",
+			"settings":
+			{
+				"buffer_size": 10643,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/myLayout/left_fixed_sidebar.blade.php",
+			"settings":
+			{
+				"buffer_size": 1731,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/looms/addNew.blade.php",
+			"settings":
+			{
+				"buffer_size": 1907,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/app",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/app/Http",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/app/Http/Controllers",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/events",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/forms",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/media",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/trainings",
+		"/Z/loom",
+		"/Z/loom/app",
+		"/Z/loom/app/Http",
+		"/Z/loom/app/Http/Controllers",
+		"/Z/loom/resources/views",
+		"/Z/loom/resources/views/layouts",
+		"/Z/loom/resources/views/looms",
+		"/Z/loom/resources/views/masters",
+		"/Z/loom/resources/views/myLayout",
+		"/Z/loom/routes"
+	],
+	"file_history":
+	[
+		"/Z/loom/resources/views/masters/branches.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/forms/training.blade.php",
+		"/Z/loom/resources/views/myLayout/app.blade.php",
+		"/Z/loom/resources/views/layouts/app.blade.php",
+		"/Z/loom/resources/views/dashboard.blade.php",
+		"/Z/loom/resources/views/home.blade.php",
+		"/Z/loom/resources/views/welcome.blade-light_sidebar.php",
+		"/Z/loom/resources/views/welcome.blade.php",
+		"/Z/loom/app/Village.php",
+		"/Z/loom/app/Http/Controllers/TehsilController.php",
+		"/Z/loom/app/Http/Controllers/VillageController.php",
+		"/Z/loom/app/Http/Controllers/BranchController.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/forms/trainingCore.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/forms/newTraining.blade.php",
+		"/Z/loom/app/Branch.php",
+		"/Z/loom/app/Tehsil.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/app/Http/Controllers/TrainingController.php",
+		"/Z/loom/app/Http/Controllers/LoomController.php",
+		"/Z/loom/resources/views/looms/addNew.blade.php",
+		"/Z/loom/resources/views/looms/index.blade.php",
+		"/Z/loom/resources/views/forms/newLoom.blade.php",
+		"/Z/loom/app/Loom.php",
+		"/Z/loom/routes/web.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/composer.json",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/forms/trainingExecution.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/trainings/new.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/trainings/create.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/dashboard.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/events/index.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/media/upload.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/home.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/projects.blade.php",
+		"/Z/loom/resources/views/looms/looms.blade.php",
+		"/C/xampp/htdocs/demo-laravel/config/broadcasting.php",
+		"/Z/loom/.env",
+		"/C/xampp/htdocs/demo-laravel/resources/assets/js/bootstrap.js",
+		"/C/xampp/htdocs/demo-laravel/app/Providers/EventServiceProvider.php",
+		"/C/xampp/htdocs/demo-laravel/app/Events/UserLoggedIn.php",
+		"/C/xampp/htdocs/demo-laravel/app/User.php",
+		"/C/xampp/htdocs/demo-laravel/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/C/xampp/htdocs/demo-laravel/.env",
+		"/C/xampp/htdocs/demo-laravel/app/Listeners/WriteMessageToFile.php",
+		"/C/xampp/htdocs/demo-laravel/config/app.php",
+		"/C/xampp/htdocs/demo-laravel/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/demo-laravel/resources/views/student/index.blade.php",
+		"/C/xampp/htdocs/demo-laravel/storage/app/.gitignore",
+		"/C/xampp/htdocs/demo-laravel/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/img-upload/index.html",
+		"/C/xampp/htdocs/img-upload/result.html",
+		"/C/xampp/htdocs/img-upload/computed.html",
+		"/C/xampp/htdocs/img-upload/likes-dislikes.html",
+		"/Z/loom/resources/views/masters/tehsils.blade.php",
+		"/C/xampp/htdocs/nidhi/tehsil",
+		"/Z/loom/resources/views/masters/villages.blade.php",
+		"/C/xampp/htdocs/demo-laravel/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/demo-laravel/resources/views/upload.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/app/Http/Controllers/MediaController.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/app/Http/Controllers/EventController.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/media/index.blade.php",
+		"/C/xampp/htdocs/demo-laravel/app/Http/Controllers/UploadController.php",
+		"/C/xampp/htdocs/demo-laravel/app/Http/Controllers/StudentController.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/layouts/app.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/routes/web.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/public/assets/pages/datatables.init.js",
+		"/Z/loom/public/assets/pages/datatables.init.js",
+		"//jvault/Pixxel Digital/PiXXel Development/000 Development Resources/Themes Collection - Purchased/Bootstrap/themeforest-15025393-adminto-responsive-admin-dashboard/Light/tables-editable.html",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/public/assets/pages/datatables.editable.init.js",
+		"/Z/loom/config/database.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/myLayout/app.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/trainings/details.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/trainings/core.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/trainings/execution.blade.php",
+		"/Z/training/resources/views/events/index.blade.php",
+		"/Z/training/resources/views/trainings/core.blade.php",
+		"/Z/training/resources/views/trainings/execution.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/app/Http/Controllers/Controller.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/app/Event.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/app/Providers/EventServiceProvider.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/app/Providers/RouteServiceProvider.php",
+		"/C/Users/nidhi.j/Desktop/workingcalender",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/public/assets/plugins/fullcalendar/dist/fullcalendar.min.js",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/public/assets/plugins/fullcalendar/dist/fullcalendar.js",
+		"/Z/training/public/assets/pages/jquery.fullcalendar.js",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/app/Training.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/public/assets/plugins/moment/src/lib/locale/calendar.js",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/forms/uploadMedia.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/resources/views/trainings/index.blade.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/app/TrainingCore.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/config/database.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/app/Media.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/config/app.php",
+		"/Z/training/app/Http/Controllers/MediaController.php-ORG-20170617-ni",
+		"/Z/training/app/Http/Controllers/MediaController.php-ORG-20170609-ni",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/app/Http/Controllers/DashboardController.php",
+		"//jvault/Pixxel Digital/PiXXel Development/JRC Portals/Development/training/app/Http/Controllers/TrainingController.php-ORG-20170602-ni",
+		"/Z/training/app/Http/Controllers/Controller.php",
+		"/Z/training/resources/views/forms/training.blade.php",
+		"/Z/training/resources/views/myLayout/app.blade.php",
+		"/Z/training/routes/web.php",
+		"/Z/training/resources/views/trainings/create.blade.php",
+		"/Z/training/app/Http/Controllers/TrainingController.php",
+		"/Z/training/app/Http/Controllers/MediaController.php",
+		"/Z/training/app/Http/Controllers/HomeController.php",
+		"/Z/training/resources/views/myLayout/app.blade-light_sidebar.php",
+		"/Z/training/resources/views/myLayout/right-notification.blade.php",
+		"/Z/training/app/Training.php",
+		"/Z/training/resources/views/layouts/app.blade.php",
+		"/Z/training/resources/views/media/upload.blade.php",
+		"/Z/training/.env",
+		"/Z/training/resources/views/forms/uploadMedia.blade.php",
+		"/C/xampp/htdocs/demo-laravel/app/Http/Controllers/WelcomeController.php",
+		"/Z/training/app/Http/Controllers/TrainingController.php-ORG-20170605-ni",
+		"/Z/training/app/Http/Controllers/TrainingController.php-ORG-20170602-ni",
+		"/Z/training/resources/views/trainings/create.blade.php-ORG-20170602-ni",
+		"/Z/training/webpack.mix.js",
+		"/Z/training/resources/views/media/upload.blade.php-ORG-20170602-ni",
+		"//192.168.0.19/Pixxel_Users/nidhi.j/training/MediaController.php",
+		"/C/xampp/htdocs/img-upload/index.php",
+		"/Z/training/app/User.php",
+		"/Z/training/app/Media.php",
+		"/Z/training/resources/views/forms/content.blade.php",
+		"/Z/training/resources/views/trainings/new.blade.php",
+		"/Z/training/resources/views/forms/newTraining.blade.php",
+		"/Z/training/config/filesystems.php",
+		"/Z/training/resources/views/login.blade.php",
+		"/Z/training/config/app.php",
+		"/Z/training/app/Http/Controllers/Auth/LoginController.php",
+		"/Z/training/app/Http/Controllers/ProjectsController.php"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"Z:\\training,\\\\jvault\\Pixxel Digital\\PiXXel Development\\JRC Portals\\Development\\training,<open files>",
+			"Z:\\training,\\\\jvault\\Pixxel Digital\\PiXXel Development\\JRC Portals\\Development\\training",
+			"Z:\\training"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Available",
+			"']",
+			"']'",
+			" ']",
+			" ']'",
+			"vill",
+			"handleUserWasAuthenticated",
+			"BroadcastServiceProvider",
+			"properties",
+			"message",
+			"addDa",
+			"add",
+			"branch",
+			"==='')",
+			"block",
+			"rowAdd",
+			"tehsil",
+			"tehsil ",
+			"tehsi",
+			"tehsil",
+			"branch_code",
+			"code",
+			"branch_code",
+			"branch",
+			"branch_code",
+			"tehsil",
+			"print-error-msg",
+			"alert('hi');\n",
+			"rowAdd",
+			"addButtonrowAdd",
+			"addButton",
+			"addToTable",
+			"<tr",
+			"append",
+			"dialog-confirm",
+			"mfp",
+			"mfp-content",
+			"mfp-ready",
+			"mfp-inline-holder",
+			"save-row",
+			"delete",
+			"toast-success",
+			"$this.html",
+			"id=\"execution\"",
+			"input",
+			"execution content",
+			"datatable-editable_wrapper",
+			"last_insert",
+			"execution",
+			"training_id",
+			"id=\"core\"",
+			"id=\"execution\"",
+			"execution",
+			"execution content",
+			"core content",
+			"core",
+			"$name",
+			"trainingId",
+			"nav",
+			"$this->carbon",
+			"find",
+			"add core",
+			"aside",
+			"core",
+			"allDay",
+			"eventDrop",
+			"eventDataId",
+			"reload",
+			"toast-message",
+			"last_insert_id",
+			"newVar",
+			"newvar",
+			"eventDataId",
+			"jsEvent",
+			"eventClick",
+			"delete-event",
+			"delete",
+			"modal-footer",
+			"delete",
+			"btn",
+			"btn-danger\n",
+			"delete-event\n",
+			"');\n",
+			"allDay",
+			"var allDay",
+			"onEventClick",
+			"input-group-btn",
+			"Change venue name",
+			"default",
+			"saveMyData",
+			"updateEvent",
+			"agendaWeek",
+			"calendar",
+			"#calendar",
+			"saveMyData",
+			"select:",
+			"on('submit',",
+			"beginning",
+			"print-error-msg",
+			"col-md-9",
+			".on('submit'",
+			"<form",
+			"form",
+			"role",
+			"<form",
+			"title",
+			"calEvent.title",
+			"title",
+			"calEvent",
+			"Change event name",
+			"Insert Event Name",
+			"modal-body",
+			"control-label",
+			"projects",
+			"\t\n",
+			"print_r",
+			"upload_form",
+			"uploadMedia",
+			"2",
+			"echo $cat_option_array;",
+			"parent",
+			"projects",
+			"title",
+			"parsley",
+			"parsley-required",
+			"basicTab",
+			"                    \n",
+			"number"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/LoomController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								873,
+								873
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/VillageController.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/forms/newLoom.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8772,
+								8772
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 7016.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/myLayout/left_fixed_sidebar.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1516,
+								1516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/looms/addNew.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "loom.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"data",
+				"training\\public\\assets\\pages\\datatables.init.js"
+			],
+			[
+				"datatables.editable",
+				"training\\public\\assets\\pages\\datatables.editable.init.js"
+			],
+			[
+				"full",
+				"public\\assets\\plugins\\fullcalendar\\dist\\fullcalendar.min.js"
+			],
+			[
+				"tra",
+				"app\\Http\\Controllers\\TrainingController.php"
+			],
+			[
+				"train",
+				"app\\TrainingCore.php"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"medi",
+				"app\\Http\\Controllers\\MediaController.php"
+			],
+			[
+				"myla",
+				"resources\\views\\myLayout\\app.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 338.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
